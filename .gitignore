@@ -1,0 +1,14 @@
+# Large files
+*.rar
+*.weights
+*.mp4
+*.jpg
+*.png
+
+# Dataset
+dataset/
+data/
+
+# Python
+__pycache__/
+venv/
